@@ -1,3 +1,3 @@
-const goTo = () => {
-    window.location = './create_resume.html'
+const goTo = (link) => {
+    window.location = link
 }
