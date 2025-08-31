@@ -1,97 +1,95 @@
 {
-  "data": {
-    "hero": {
-      "headline": "Hi, I'm",
-      "headlineHighlight": "Tanish Kushwaha",
-      "bio": "Full-Stack Developer · Passionate about learning and building. I create fast, user-friendly digital experiences with a focus on performance and simplicity.",
-      "status": {
-        "statusLine": "Currently working on",
-        "statusHighlight": "Portfolio"
-      },
-      "quote": "Habits are the compound interest of self-improvement.",
-      "quoteAuthor": "James Clear"
+  "hero": {
+    "headline": "Hi, I'm",
+    "headlineHighlight": "Tanish Kushwaha",
+    "bio": "Full-Stack Developer · Passionate about learning and building. I create fast, user-friendly digital experiences with a focus on performance and simplicity.",
+    "status": {
+      "statusLine": "Currently working on",
+      "statusHighlight": "Portfolio"
     },
-    "skills": [
-      {
-        "category": "Languages",
-        "itemString": "TypeScript JavaScript Python Java Go"
-      },
-      {
-        "category": "Front-End",
-        "itemString": "Next.js React.js React Native TailwindCSS HTML CSS"
-      },
-      {
-        "category": "Back-End",
-        "itemString": "Node.js Express.js FastAPI Flask"
-      },
-      {
-        "category": "Databases",
-        "itemString": "PostgreSQL MongoDB"
-      },
-      {
-        "category": "Tools",
-        "itemString": "Git Linux Docker VSCode"
-      }
-    ],
-
-    "projects": [
-      {
-        "title": "BP Log",
-        "description": "An AI-powered Android app for tracking blood pressure and pulse, offering personalized health insights and lifestyle tips based on the user's past records.",
-        "tech": " Expo React-Native Appwrite Node.js Deepseek LLM",
-        "imgURL": "",
-        "live": "",
-        "github": "https://github.com/tanishkushwaha/bp-log"
-      },
-      {
-        "title": "Pastel Notes",
-        "description": "A simple and secure notes app that lets you write, save, and organize your thoughts in one place. Log in to access your notes from any device, with fast performance and a clean, distraction-free interface.",
-        "tech": "Next.js PostgreSQL PrismaORM Vercel",
-        "imgURL": "https://raw.githubusercontent.com/tanishkushwaha/pastel-notes/refs/heads/main/screenshots/notes.png",
-        "live": "https://pastel-notes.vercel.app/",
-        "github": "https://github.com/tanishkushwaha/pastel-notes"
-      },
-      {
-        "title": "Smol URL",
-        "description": "A fast and simple URL shortener that lets you convert long links into short, shareable ones. Easy to use on any device with a clean, responsive design.",
-        "tech": "Next.js PostgreSQL TailwindCSS ",
-        "imgURL": "https://raw.githubusercontent.com/tanishkushwaha/smol-url/refs/heads/main/screenshots/1.png",
-        "live": "https://smol-url-sigma.vercel.app/",
-        "github": "https://github.com/tanishkushwaha/smol-url"
-      },
-      {
-        "title": "Weather App",
-        "description": "Get real-time weather updates for any city with a clean, easy-to-use interface. This app works smoothly across all devices, giving you the latest weather info wherever you are.",
-        "tech": "Vite React.js OpenWeather API    ",
-        "imgURL": "https://raw.githubusercontent.com/tanishkushwaha/weather-app/refs/heads/master/docs/1.png",
-        "live": "https://boisterous-pixie-f13aab.netlify.app/",
-        "github": "https://github.com/tanishkushwaha/weather-app"
-      }
-    ],
-
-    "about": [
-      "Hey, I'm Tanish,",
-      "A software engineer passionate about turning ideas into fast, functional, and beautiful web apps.",
-      "I like working on projects where I get to learn something new and solve real problems, whether it's on the frontend or backend. Clean design, smooth user experience, and writing code that's easy to understand — those are things I care about.",
-      "Outside of dev stuff, I'm usually exploring ideas, tweaking old projects, or reading about productivity, deep work, and creativity. Always trying to get a little better, one step at a time."
-    ],
-
-    "contact": {
-      "message": "I'm currently open to freelance work! Got a question or something else in mind? Just drop me a message.",
-      "email": "tanishkushwaha7763@gmail.com"
+    "quote": "Habits are the compound interest of self-improvement.",
+    "quoteAuthor": "James Clear"
+  },
+  "skills": [
+    {
+      "category": "Languages",
+      "itemString": "TypeScript JavaScript Python Java Go"
     },
-
-    "footer": {
-      "socials": [
-        {
-          "name": "GitHub",
-          "link": "https://github.com/tanishkushwaha"
-        },
-        {
-          "name": "LinkedIn",
-          "link": "https://linkedin.com/in/tanishkushwaha"
-        }
-      ]
+    {
+      "category": "Front-End",
+      "itemString": "Next.js React.js React Native TailwindCSS HTML CSS"
+    },
+    {
+      "category": "Back-End",
+      "itemString": "Node.js Express.js FastAPI Flask"
+    },
+    {
+      "category": "Databases",
+      "itemString": "PostgreSQL MongoDB"
+    },
+    {
+      "category": "Tools",
+      "itemString": "Git Linux Docker VSCode"
     }
+  ],
+
+  "projects": [
+    {
+      "title": "BP Log",
+      "description": "An AI-powered Android app for tracking blood pressure and pulse, offering personalized health insights and lifestyle tips based on the user's past records.",
+      "tech": " Expo React-Native Appwrite Node.js Deepseek LLM",
+      "imgURL": "",
+      "live": "",
+      "github": "https://github.com/tanishkushwaha/bp-log"
+    },
+    {
+      "title": "Pastel Notes",
+      "description": "A simple and secure notes app that lets you write, save, and organize your thoughts in one place. Log in to access your notes from any device, with fast performance and a clean, distraction-free interface.",
+      "tech": "Next.js PostgreSQL PrismaORM Vercel",
+      "imgURL": "https://raw.githubusercontent.com/tanishkushwaha/pastel-notes/refs/heads/main/screenshots/notes.png",
+      "live": "https://pastel-notes.vercel.app/",
+      "github": "https://github.com/tanishkushwaha/pastel-notes"
+    },
+    {
+      "title": "Smol URL",
+      "description": "A fast and simple URL shortener that lets you convert long links into short, shareable ones. Easy to use on any device with a clean, responsive design.",
+      "tech": "Next.js PostgreSQL TailwindCSS ",
+      "imgURL": "https://raw.githubusercontent.com/tanishkushwaha/smol-url/refs/heads/main/screenshots/1.png",
+      "live": "https://smol-url-sigma.vercel.app/",
+      "github": "https://github.com/tanishkushwaha/smol-url"
+    },
+    {
+      "title": "Weather App",
+      "description": "Get real-time weather updates for any city with a clean, easy-to-use interface. This app works smoothly across all devices, giving you the latest weather info wherever you are.",
+      "tech": "Vite React.js OpenWeather API    ",
+      "imgURL": "https://raw.githubusercontent.com/tanishkushwaha/weather-app/refs/heads/master/docs/1.png",
+      "live": "https://boisterous-pixie-f13aab.netlify.app/",
+      "github": "https://github.com/tanishkushwaha/weather-app"
+    }
+  ],
+
+  "about": [
+    "Hey, I'm Tanish,",
+    "A software engineer passionate about turning ideas into fast, functional, and beautiful web apps.",
+    "I like working on projects where I get to learn something new and solve real problems, whether it's on the frontend or backend. Clean design, smooth user experience, and writing code that's easy to understand — those are things I care about.",
+    "Outside of dev stuff, I'm usually exploring ideas, tweaking old projects, or reading about productivity, deep work, and creativity. Always trying to get a little better, one step at a time."
+  ],
+
+  "contact": {
+    "message": "I'm currently open to freelance work! Got a question or something else in mind? Just drop me a message.",
+    "email": "tanishkushwaha7763@gmail.com"
+  },
+
+  "footer": {
+    "socials": [
+      {
+        "name": "GitHub",
+        "link": "https://github.com/tanishkushwaha"
+      },
+      {
+        "name": "LinkedIn",
+        "link": "https://linkedin.com/in/tanishkushwaha"
+      }
+    ]
   }
 }
