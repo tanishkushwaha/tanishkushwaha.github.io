@@ -36,7 +36,7 @@
   "projects": [
     {
       "title": "BP Log",
-      "description": "An AI-powered Android app for tracking blood pressure and pulse, offering personalized health insights and lifestyle tips based on the user's past records.",
+      "description": "AI-powered Android app for tracking blood pressure and pulse with personalized health insights and tips.",
       "tech": " Expo React-Native Appwrite Node.js Deepseek LLM",
       "imgURL": "",
       "live": "",
@@ -44,7 +44,7 @@
     },
     {
       "title": "Pastel Notes",
-      "description": "A simple and secure notes app that lets you write, save, and organize your thoughts in one place. Log in to access your notes from any device, with fast performance and a clean, distraction-free interface.",
+      "description": "A notes app with login support for saving, organizing, and accessing notes across devices.",
       "tech": "Next.js PostgreSQL PrismaORM Vercel",
       "imgURL": "https://raw.githubusercontent.com/tanishkushwaha/pastel-notes/refs/heads/main/screenshots/notes.png",
       "live": "https://pastel-notes.vercel.app/",
@@ -52,7 +52,7 @@
     },
     {
       "title": "Smol URL",
-      "description": "A fast and simple URL shortener that lets you convert long links into short, shareable ones. Easy to use on any device with a clean, responsive design.",
+      "description": "A URL shortener for converting long links into short, shareable ones.",
       "tech": "Next.js PostgreSQL TailwindCSS ",
       "imgURL": "https://raw.githubusercontent.com/tanishkushwaha/smol-url/refs/heads/main/screenshots/1.png",
       "live": "https://smol-url-sigma.vercel.app/",
