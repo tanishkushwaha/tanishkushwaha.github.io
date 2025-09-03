@@ -60,7 +60,7 @@
     },
     {
       "title": "Weather App",
-      "description": "Get real-time weather updates for any city with a clean, easy-to-use interface. This app works smoothly across all devices, giving you the latest weather info wherever you are.",
+      "description": "A responsive app that provides real-time weather updates for any city.",
       "tech": "Vite React.js OpenWeather API    ",
       "imgURL": "https://raw.githubusercontent.com/tanishkushwaha/weather-app/refs/heads/master/docs/1.png",
       "live": "https://boisterous-pixie-f13aab.netlify.app/",
